@@ -37,8 +37,10 @@
 ```html
 [วางโค้ด HTML ที่นี่]
 ```
+
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/d83f2780-751e-4a44-982c-03f2160d3290)
 
 
 
